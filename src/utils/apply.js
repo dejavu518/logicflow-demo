@@ -23,3 +23,4 @@ export default {
   view: applyView,
   model: applyModel
 }
+// 啦啦
