@@ -18,9 +18,11 @@
     "babel-plugin-import": "^1.13.5",
     "core-js": "^3.6.5",
     "element-ui": "^2.15.8",
+    "form-making": "^1.2.10",
     "less-loader": "^6.0.0",
     "sass": "^1.32.11",
     "sass-loader": "^8.0.2",
+    "vform-builds": "^2.2.5",
     "vue": "^2.6.11",
     "vue-json-pretty": "^1.8.2",
     "vue-router": "^3.2.0"
