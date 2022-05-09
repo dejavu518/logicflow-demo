@@ -11,6 +11,7 @@
     "@formily/core": "^2.0.19",
     "@formily/element": "^2.0.19",
     "@formily/vue": "^2.0.19",
+    "@lljj/vue-json-schema-form": "^1.12.2",
     "@logicflow/core": "^0.6.0",
     "@logicflow/extension": "^0.6.0",
     "@vue/composition-api": "^1.4.9",
